@@ -1,3 +1,5 @@
+# About Me <a href="https://hhpluscertificateofcompletion.oopy.io/"> <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" /> </a>
+
 ### 안녕하세요 개발자 백현명입니다. 👋
 
 저는 Repository를 Organizations로 관리하고 있습니다. (왼쪽 하단에 보면 Organizations 섹션이 있어요 😄)
@@ -9,12 +11,4 @@
 - [인터넷강의 및 책을 보고 따라친 코드들 기록](https://github.com/watching-internet-book-lectures)
 
 
-
-### 기술 스택
-<img width="735" alt="image" src="https://github.com/user-attachments/assets/eaae9d63-34ee-4a00-bbe4-81769731f616">
-
-### 활동
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
-</a>
 
