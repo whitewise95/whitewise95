@@ -2,7 +2,7 @@
 
 ### 안녕하세요 개발자 백현명입니다. 👋
 
-저는 Repository를 Organizations로 관리하고 있습니다. (왼쪽 하단에 보면 Organizations 섹션이 있어요 😄)
+Repository를 Organizations로 관리하고 있습니다. (왼쪽 하단에 보면 Organizations 섹션이 있어요)
  
 ### Organizations 목록
 - [항해플러스 백엔드 5기 활동 기록](https://github.com/hanghae-plus-5th)
